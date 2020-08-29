@@ -1,6 +1,10 @@
-<h1> personal-project-planner-app </h1>
+<h1> personal project planner </h1>
 
 [Demo Site](https://personal-project-planner.herokuapp.com/)
+
+Built with React for the frontend and Spring Boot for the Backend. 
+
+Deployed on Heroku 
 
 preview 
 ![Image of Login](https://github.com/zwang759/personal-project-planner-app/blob/master/previews/log%20in.png)
