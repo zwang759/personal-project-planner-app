@@ -1,4 +1,4 @@
-<h1> personal-project-planner-app
+<h1> personal-project-planner-app </h1>
 
 [Demo Site](https://personal-project-planner.herokuapp.com/)
 
